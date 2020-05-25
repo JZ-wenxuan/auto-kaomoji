@@ -1,6 +1,6 @@
 # auto-kaomoji
 
-Minimal phrase input panel for windows built with AutoHotKey. Works great for kaomoji(顔文字( ﾟ∀。)) or emoji(✨).
+Minimal phrase input panel for windows built with AutoHotKey. Works great for commonly used kaomoji(顔文字( ﾟ∀。)) or emoji(✨).
 
 ![preview.gif](preview.gif)
 
