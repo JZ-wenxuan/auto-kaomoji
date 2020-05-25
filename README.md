@@ -2,6 +2,8 @@
 
 Minimal phrase input panel for windows built with AutoHotKey. Works great for kaomoji(顔文字( ﾟ∀。)) or emoji(✨).
 
+![preview.gif](preview.gif)
+
 ## Usage
 
 Install [AutoHotKey](https://www.autohotkey.com/) and run the [script](AutoKaomoji.ahk) in Unicode. Or run the [executable](AutoKaomoji.exe) directly.
@@ -12,7 +14,9 @@ Kaomojis are saved in `Kaomoji.txt` in the same directory as the script/executab
 
 Put a link to the script/executable into `shell:Startup` folder to start it with Windows.
 
-Default page size and hotkey can be modified at the beginning of the script.
+## Known Issues
+
+Sometimes script simply stop working. Any idea on that would be appreciated.
 
 ## About
 

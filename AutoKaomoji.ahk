@@ -4,10 +4,6 @@
 
 PageSize := 8
 
-+!x::
-  GoSub, ShowPanel
-return
-
 ; Clip() - Send and Retrieve Text Using the Clipboard
 ; by berban - updated February 18, 2019
 ; https://www.autohotkey.com/boards/viewtopic.php?f=6&t=62156
@@ -57,6 +53,10 @@ Loop, Read, Kaomoji.txt, UTF-8
 
 GuiActive := false
 KaomojiSelected := 0
+
++!x::
+  GoSub, ShowPanel
+return
 
 SelectKaomoji:
   Gui, Submit
