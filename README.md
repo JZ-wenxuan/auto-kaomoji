@@ -16,7 +16,7 @@ Put a link to the script/executable into `shell:Startup` folder to start it with
 
 ## Known Issues
 
-Sometimes script simply stop working. Any idea on that would be appreciated.
+Too fast mouse wheel scroll will generate an error message.
 
 ## About
 
