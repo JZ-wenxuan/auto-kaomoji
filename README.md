@@ -6,7 +6,7 @@ Minimal phrase input panel for windows built with AutoHotKey. Works great for co
 
 ## Usage
 
-Install [AutoHotKey](https://www.autohotkey.com/) and run the [script](AutoKaomoji.ahk) in Unicode. Or run the [executable](AutoKaomoji.exe) directly.
+Install [AutoHotKey](https://www.autohotkey.com/) and run the [script](AutoKaomoji.ahk) in Unicode. Or run the [executable](AutoKaomoji_win32.exe) directly.
 
 Press `Alt+Shift+X` to input kaomoji.
 
