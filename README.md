@@ -14,10 +14,6 @@ Kaomojis are saved in `Kaomoji.txt` in the same directory as the script/executab
 
 Put a link to the script/executable into `shell:Startup` folder to start it with Windows.
 
-## Known Issues
-
-Sometimes script simply stop working. Any idea on that would be appreciated.
-
 ## About
 
 Thanks https://github.com/berban/Clip for providing a neat way of sending strings without triggering IME, etc.

@@ -69,6 +69,7 @@ ShowPanel:
   CoordMode, mouse, Screen
   MouseGetPos, MouseX, MouseY
   Gui, Show, x%MouseX% y%MouseY% NoActivate, KaomojiPanel
+  WinSet, AlwaysOnTop, On, ahk_id %KaomojiGuiHwnd%
   GuiActive := true
   KaomojiSelected := 1
   GuiControl, Choose, KaomojiBox, 1
